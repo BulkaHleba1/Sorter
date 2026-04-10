@@ -1,5 +1,5 @@
 {
-    "watch_folder": "/home/Himera/Downloads",
+    "watch_folder": "/home/user/Downloads",
     "rules": {
         "jpg": "Images",
         "png": "Images",
