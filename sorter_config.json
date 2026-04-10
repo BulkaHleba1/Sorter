@@ -1,0 +1,12 @@
+{
+    "watch_folder": "/home/Himera/Downloads",
+    "rules": {
+        "jpg": "Images",
+        "png": "Images",
+        "pdf": "Docs"
+    },
+    "unknown_folder": "unknown",
+    "ignore_extensions": ["part", "crdownload"],
+    "ignore_files": [".DS_Store", "Thumbs.db"],
+    "log_file": "/home/user/.download_organizer.log"
+}
